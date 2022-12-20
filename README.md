@@ -1,1 +1,1 @@
-No starter code is provided. Start from scratch!
+The mission of the Resource Centre for people with mental disability “Zelda” is to promote de-institutionalisation and development of community based mental health care services for people with mental disabilities through research, monitoring of observance of human rights, legal advocacy and activities of informing and educating the public. 

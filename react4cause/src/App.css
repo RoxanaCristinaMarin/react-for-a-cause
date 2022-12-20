@@ -1,0 +1,19 @@
+#about{
+background-color: brown;
+height: 100vh;
+}
+
+#contact{
+  background-color: rgb(42, 165, 79);
+  height: 100vh;
+  }
+
+#donate{
+  background-color: rgb(165, 42, 110);
+  height: 100vh;
+}
+
+#home{
+  background-color: aqua;
+  height: 100vh;
+}
